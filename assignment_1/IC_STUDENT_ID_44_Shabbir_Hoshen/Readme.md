@@ -2,23 +2,9 @@
 <html lang="en">
 <head>
     <title>Git Commands</title>
-    <style>
-      
-        
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 5px;
-            border-radius: 4px;
-            font-family: monospace;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
 </head>
+
+
 
 <body style="font-family: Arial, sans-serif;
             max-width: 800px;
