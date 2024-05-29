@@ -1,20 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="Readme.MD" content="width=device-width, initial-scale=1.0">
     <title>Git Commands</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
+      
+        
         code {
             background-color: #f4f4f4;
             padding: 2px 5px;
@@ -30,7 +20,11 @@
     </style>
 </head>
 
-<body>
+<body style="font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;">
 
 <h1>Git Commands Prepared by <br></h1>
 <h2>-------------------------------------------------</h2><br>
