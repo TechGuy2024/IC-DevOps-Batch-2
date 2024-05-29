@@ -1,26 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
+    <style>
+        h2 {
+            color: #0056b3;
+        }
+        pre {
+            background-color: #eee;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        code {
+            background-color: #f0f0f0;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+    </style>
+
+          
 </head>
 
 
 
-<body style="font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            line-height: 1.6;">
+<body>
 
 <h1>Git Commands Prepared by <br></h1>
 <h2>-------------------------------------------------</h2><br>
-<p><b>
+<h2><b>
 Shabbir Hoshen<br>
 IC_Student_ID_44<br>
 IC-DevOps-Batch-2<br>
 Mobile: 01913310310<br>
 Email: shabbir6646@gmail.com
-</b></p>
+</b></h2>
 
 <H1>Below are explanations of common Git commands:</h1><br>
 <h2>-------------------------------------------------</h2><br>
