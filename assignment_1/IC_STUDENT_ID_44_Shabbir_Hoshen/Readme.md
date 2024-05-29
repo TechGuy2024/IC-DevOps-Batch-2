@@ -1,4 +1,3 @@
-<html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,9 +31,30 @@
 </head>
 <body>
 
-<h1>Git Commands</h1>
+<h1>Git Commands Prepared by <br></h1>
+<h2>-------------------------------------------------</h2><br>
+<p><b>
+Shabbir Hoshen<br>
+IC_Student_ID_44<br>
+IC-DevOps-Batch-2<br>
+Mobile: 01913310310<br>
+Email: shabbir6646@gmail.com
+</b></p>
 
-<p>Below are explanations of common Git commands:</p>
+<H1>Below are explanations of common Git commands:</h1><br>
+<h2>-------------------------------------------------</h2><br>
+
+<h2>git config --global user.name &lt;name&gt;</h2>
+<p>Adding Name to the git.</p>
+<pre><code>git config --global user.name &lt;name&gt;</code></pre>
+
+<h2>git config --global user.email &lt;email&gt;</h2>
+<p>Adding Email to the git.</p>
+<pre><code>git config --global user.email &lt;email&gt;</code></pre>
+
+<h2>git config -l</h2>
+<p>This command will show user and email associeted</p>
+<pre><code>git config -l</code></pre>
 
 <h2>git init</h2>
 <p>Initialize an empty Git repository in the current directory.</p>
@@ -48,6 +68,10 @@
 <p>Add file contents to the index.</p>
 <pre><code>git add &lt;file&gt;</code></pre>
 
+<h2>git add .</h2>
+<p>Add all file which are created and make change</p>
+<pre><code>git add .</code></pre>
+
 <h2>git rm &lt;file&gt;</h2>
 <p>Remove file from the git.</p>
 <pre><code>git rm &lt;file&gt;</code></pre>
@@ -59,10 +83,6 @@
 <h2>git commit -m "&lt;message&gt;"</h2>
 <p>Record changes to the repository with a message.</p>
 <pre><code>git commit -m "&lt;message&gt;"</code></pre>
-
-<h2>git push</h2>
-<p>Update remote refs along with associated objects.</p>
-<pre><code>git push</code></pre>
 
 <h2>git remote</h2>
 <p>To see any remote link.</p>
@@ -76,9 +96,13 @@
 <p>To add original URL address</p>
 <pre><code>git remote add origin &lt;URL&gt;</code></pre>
 
+<h2>git push</h2>
+<p>Update remote refs along with associated objects.</p>
+<pre><code>git push</code></pre>
+
 <h2>git push -u origin main</h2>
 <p>Update remote refs along with associated objects in main branch or in any other branch.</p>
-<pre><code>git push</code></pre>
+<pre><code>git push -u origin main</code></pre>
 
 <h2>git pull</h2>
 <p>Fetch from and integrate with another repository or a local branch.</p>
