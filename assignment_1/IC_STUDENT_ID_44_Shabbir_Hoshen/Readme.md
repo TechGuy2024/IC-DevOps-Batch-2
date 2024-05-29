@@ -1,6 +1,3 @@
-Certainly! Below is an example of a `Readme.md` file for a GitHub repository that contains explanations of common Git commands in HTML format:
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
