@@ -29,6 +29,7 @@
         }
     </style>
 </head>
+
 <body>
 
 <h1>Git Commands Prepared by <br></h1>
