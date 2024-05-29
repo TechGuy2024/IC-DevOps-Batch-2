@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Git Commands</title>
+    <title>All Git Command list</title>
 </head>
 
 
